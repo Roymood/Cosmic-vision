@@ -1,5 +1,11 @@
 # Cosmic Vision: NASA Space App Challenge 2024  
 
+![FrontPage](frontpage.png)  
+  
+  
+![CosmicVision](nasa-space-apps.jpg)  
+  
+
 ## Overview  
 The Cosmic Vision project is a web-based interactive space exploration app designed for the NASA Space App Challenge 2024. The app allows users to explore the solar system and beyond through an interactive 3D model. It features real-time tracking of celestial bodies and provides educational resources about Near-Earth Objects (NEOs) and space exploration.  
 
